@@ -1,0 +1,21 @@
+{
+  "name": "@dhruvsaraiya/npm-v2-test-package",
+  "version": "1.0.0",
+  "description": "Test Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruvsaraiya/npm-v2-test-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhruvsaraiya/npm-v2-test-package/issues"
+  },
+  "publishConfig": {"registry": "https://npm-beta.pkg.github.com"},
+  "homepage": "https://github.com/dhruvsaraiya/npm-v2-test-package#readme"
+}
